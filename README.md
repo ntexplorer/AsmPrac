@@ -1,2 +1,4 @@
 # AsmPrac
-Assembly Language Practice
+王爽 《汇编语言》 检测点及实验汇编代码练习
+
+16位 8086汇编语言
